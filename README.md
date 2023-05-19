@@ -4,18 +4,18 @@ Assignment 6
 The programer needs to create a python program that has class named "TV" and another program that sets a test driver named "TestTV" and will execute the two objects given, and finally print the provided output.
 # About the Program
 
-'''
+```
 Classes furnish a simple way to group data members and methods in one location.
-'''
+```
 
 This practice of program is under Module 4 in our subject but also the introduction of object-oriented programming. With this python classes, it let programmers organize codes concerning to functionality and data. When we create a new class in Python, we also establish a new object type and make it possible to generate new instances of that specific object type.
 
 # Usage
 
-'''
+```
 class_name = blueprint for creating objects.
 def __init__ = is used to initialize the attributes of an object as soon as the object is formed.
-'''
+```
 
 # Video Documentation
 https://drive.google.com/drive/folders/1LTawoOKNcULHnKvOVBjoRNvGJKZy_H9_?usp=share_link
