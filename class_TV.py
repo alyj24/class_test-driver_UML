@@ -10,14 +10,28 @@ print("\033[95m=" * 42)
 # create a class and named as it is intructed
 class TV:
     '''A python code whereas class and object are used, and UML Class Diagram is practiced.'''
-# define attributes and set default methods
-channel_tv = 1
-volume_tv = 1
-on_tv = False
-# implement constructor
-def __init__(self, channel_tv, volume_tv):
+    # define attributes and set default methods
+    channel_tv = 1
+    volume_tv = 1
+    on_tv = False
+
+    # implement constructor
+    def __init__(self, channel_tv, volume_tv):
     self.channel = channel_tv
     self.volume = volume_tv
 
 # establish the methods for tv
+    # turn on the tv (none)
+    # turn off the tv (none)
+    # returns the channel of the tv (int)
+    # sets a new channel for the tv (none)
+    # there is 1  to 120 selection
+    # gets the volume level of the tv (int)
+    # sets a new volume level of the tv (none)
+    # there is 1 to 7 range
+    # increase the channel number by 1 (none)
+    # decrease the channel number by 2 (none)
+    # increase the volume level by 1 (none)
+    # decrease the volume level by 1 (none)
+
 # end
