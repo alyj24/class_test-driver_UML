@@ -17,8 +17,8 @@ class TV:
 
     # implement constructor
     def __init__(self, channel_tv, volume_tv):
-    self.channel = channel_tv
-    self.volume = volume_tv
+        self.channel = channel_tv
+        self.volume = volume_tv
 
 # establish the methods for tv
     # turn on the tv (none)
