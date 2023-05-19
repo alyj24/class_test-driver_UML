@@ -13,7 +13,7 @@ def TestTV():
     tv2 = TV(3, 2)
     tv2.turnOn()
     # recognize the command and print the output
-    print("tv1's channel is", tv1.getChannel(), "and the volume level is", tv1.getVolume())
-    print("tv2's channel is", tv2.getChannel(), "and the volume level is", tv2.getVolume())
+    print("\033[91mtv1's channel is", tv1.getChannel(), "and the volume level is", tv1.getVolume())
+    print("\033[92mtv2's channel is", tv2.getChannel(), "and the volume level is", tv2.getVolume())
 # run the program
 TestTV()
