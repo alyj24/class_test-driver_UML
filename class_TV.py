@@ -8,6 +8,8 @@ print("\033[95m=" * 42)
 
 # pseudocode
 # create a class and named as it is intructed
+class TV:
+    '''A python code whereas class and object are used, and UML Class Diagram is practiced.'''
 # define attributes and set default methods
 # implement constructor
 # establish the methods for tv
